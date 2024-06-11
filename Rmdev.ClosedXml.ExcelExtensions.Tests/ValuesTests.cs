@@ -63,7 +63,7 @@ namespace Rmdev.ClosedXml.ExcelExtensions.Tests
             result.FileStream.Dispose();
         }
 
-        [Fact(DisplayName = "Download a file with a name.")]
+        [Fact(DisplayName = "Download a file.")]
         [Trait("Category", "Web")]
         public void Workbook_ToFileStreamResult_HasData()
         {

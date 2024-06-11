@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtensions", "Rmdev.ClosedXML.ExcelExtensions\Rmdev.ClosedXML.ExcelExtensions.csproj", "{6C3B96A7-56C2-46B2-8230-D33AB79B8029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtensions.AspNetCore", "Rmdev.ClosedXML.ExcelExtensions.Web\Rmdev.ClosedXML.ExcelExtensions.AspNetCore.csproj", "{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C3B96A7-56C2-46B2-8230-D33AB79B8029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3B96A7-56C2-46B2-8230-D33AB79B8029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3B96A7-56C2-46B2-8230-D33AB79B8029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3B96A7-56C2-46B2-8230-D33AB79B8029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25AC74BB-A28B-40DF-9370-8E9C638B5C97}
+	EndGlobalSection
+EndGlobal

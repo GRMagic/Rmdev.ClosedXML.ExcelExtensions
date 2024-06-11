@@ -2,8 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>rmdev.ClosedXML.ExcelExtensions.AspNetCore</PackageId>
+    <Version>0.1.0</Version>
+    <License>MIT</License>
+    <Authors>Gustavo Rossi Müller</Authors>
+    <PackageDescription>Extensions to facilitate export to excel and download a file using the ClosedXML.Excel package.</PackageDescription>
+    <Description>Extensions to facilitate export to excel and download a file using the ClosedXML.Excel package.</Description>
+    <RepositoryUrl>https://github.com/GRMagic/Rmdev.ClosedXML.ExcelExtensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/GRMagic/Rmdev.ClosedXML.ExcelExtensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Excel;Xlsx;OpenXml;Download;AspNetCore;Mvc;Web;API</PackageTags>
+    <Title>RM Dev - Export to Excel</Title>
+    <Summary>Export an IEnumerable to an excel file and download xlsx files.</Summary>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
   </PropertyGroup>
-
+    
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
   </ItemGroup>
@@ -12,4 +25,8 @@
     <ProjectReference Include="..\Rmdev.ClosedXML.ExcelExtensions\Rmdev.ClosedXML.ExcelExtensions.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".\readme.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+	
 </Project>

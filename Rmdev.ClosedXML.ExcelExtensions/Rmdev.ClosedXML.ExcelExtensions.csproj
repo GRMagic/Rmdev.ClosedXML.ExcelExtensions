@@ -2,8 +2,25 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>rmdev.ClosedXML.ExcelExtensions</PackageId>
+    <Version>0.1.0</Version>
+    <License>MIT</License>
+    <Authors>Gustavo Rossi Müller</Authors>
+    <PackageDescription>Extensions to facilitate export to excel using the ClosedXML.Excel package.</PackageDescription>
+    <Description>Extensions to facilitate export to excel using the ClosedXML.Excel package.</Description>
+    <RepositoryUrl>https://github.com/GRMagic/Rmdev.ClosedXML.ExcelExtensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/GRMagic/Rmdev.ClosedXML.ExcelExtensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Excel;Xlsx;OpenXml</PackageTags>
+    <Title>RM Dev - Export to Excel</Title>
+    <Summary>Export an IEnumerable to an excel file.</Summary>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".\readme.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+	
   <ItemGroup>
     <PackageReference Include="ClosedXML" Version="0.102.2" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />

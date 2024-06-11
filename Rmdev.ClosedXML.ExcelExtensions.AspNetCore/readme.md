@@ -2,7 +2,7 @@
 
 ## Extensions
 
-**All Extensions** from [Rmdev.ClosedXML.ExcelExtensions](..\Rmdev.ClosedXML.ExcelExtensions\readme.md) plus ToFileStreamResult
+**All Extensions** from [Rmdev.ClosedXML.ExcelExtensions](..\Rmdev.ClosedXML.ExcelExtensions/readme.md) plus ToFileStreamResult
 
 
 ### ToFileStreamResult

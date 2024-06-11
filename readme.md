@@ -1,11 +1,11 @@
 
 # Rmdev.ClosedXML.ExcelExtensions
 
-[Go to readme](Rmdev.ClosedXML.ExcelExtensions\readme.md)
+[Go to readme](Rmdev.ClosedXML.ExcelExtensions/readme.md)
 
 # Rmdev.ClosedXML.ExcelExtensions.AspNetCore
 
-[Go to readme](Rmdev.ClosedXML.ExcelExtensions.AspNetCore\readme.md)
+[Go to readme](Rmdev.ClosedXML.ExcelExtensions.AspNetCore/readme.md)
 
 | Package |  Version | Downloads |
 | ------- | ----- | ----- |

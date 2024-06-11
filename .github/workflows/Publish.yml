@@ -1,5 +1,10 @@
 name: Publish on Nuget.org
 
+on:
+  push:
+    branches:
+      - releases
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

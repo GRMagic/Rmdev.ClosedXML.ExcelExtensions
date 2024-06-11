@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtensions.AspNetCore", "Rmdev.ClosedXML.ExcelExtensions.Web\Rmdev.ClosedXML.ExcelExtensions.AspNetCore.csproj", "{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXml.ExcelExtensions.Tests", "Rmdev.ClosedXml.ExcelExtensions.Tests\Rmdev.ClosedXml.ExcelExtensions.Tests.csproj", "{1E20084B-C2A1-461A-B5C1-51AEA824C79A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E20084B-C2A1-461A-B5C1-51AEA824C79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E20084B-C2A1-461A-B5C1-51AEA824C79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E20084B-C2A1-461A-B5C1-51AEA824C79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E20084B-C2A1-461A-B5C1-51AEA824C79A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

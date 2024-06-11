@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Rmdev.ClosedXML.ExcelExtensions.Web\Rmdev.ClosedXML.ExcelExtensions.AspNetCore.csproj" />
+    <ProjectReference Include="..\Rmdev.ClosedXML.ExcelExtensions.AspNetCore\Rmdev.ClosedXML.ExcelExtensions.AspNetCore.csproj" />
   </ItemGroup>
 
   <ItemGroup>

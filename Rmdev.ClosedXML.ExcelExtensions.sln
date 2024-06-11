@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtensions", "Rmdev.ClosedXML.ExcelExtensions\Rmdev.ClosedXML.ExcelExtensions.csproj", "{6C3B96A7-56C2-46B2-8230-D33AB79B8029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtensions.AspNetCore", "Rmdev.ClosedXML.ExcelExtensions.Web\Rmdev.ClosedXML.ExcelExtensions.AspNetCore.csproj", "{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXML.ExcelExtensions.AspNetCore", "Rmdev.ClosedXML.ExcelExtensions.AspNetCore\Rmdev.ClosedXML.ExcelExtensions.AspNetCore.csproj", "{3BF25A48-3E00-40DF-8165-EB5458C8AFD6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmdev.ClosedXml.ExcelExtensions.Tests", "Rmdev.ClosedXml.ExcelExtensions.Tests\Rmdev.ClosedXml.ExcelExtensions.Tests.csproj", "{1E20084B-C2A1-461A-B5C1-51AEA824C79A}"
 EndProject

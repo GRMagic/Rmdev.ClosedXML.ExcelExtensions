@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>rmdev.ClosedXML.ExcelExtensions</PackageId>
-    <Version>0.2.0</Version>
+    <Version>0.2.1</Version>
     <License>MIT</License>
     <Authors>Gustavo Rossi Müller</Authors>
     <PackageDescription>Extensions to facilitate export to excel using the ClosedXML.Excel package.</PackageDescription>
